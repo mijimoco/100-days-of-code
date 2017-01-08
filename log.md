@@ -9,6 +9,16 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
+### Days 0-5: January, 2017 
+
+**Today's Progress**: I'm following my challanges at FreeCodeCamp. I forgot to take log of the first five days, but basically what I was doing was to follow the challanges at FCC as I mentioned.
+
+**Thoughts:** So far I've really enjoyed FCC and this #100daysofcode challenge very much. I wish I won't fall behind in the next 100 days.
+
+I also enjoyed using github, I'm just getting used to working with it.
+
+
+
 ### Day 6: January 8, 2017
 
 **Today's Progress**: Worked on a FreeCodeCamp challenge, "Reverse a String"
