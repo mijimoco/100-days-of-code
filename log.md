@@ -9,22 +9,13 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 6: January 8, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on a FreeCodeCamp challenge, "Reverse a String"
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: It wasn't too difficult. The tips given were String.prototype.split(), String.prototype.reverse() String.prototype.join(); which made it quite easy to follow the logic. I came out with the solution quite fast. I had one significant mistake though. That is, I totally forgot that i'm working on a string, not an array, meaning I forgot to turn the string into an array first. That lead me to think, why I need split(), I can directly reverse()?
 
 
-### Day 1: June 27, Monday
+**Link(s) to work**: [Reverse a String](https://www.freecodecamp.com/challenges/reverse-a-string)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
