@@ -1,0 +1,21 @@
+// This is the function we wrote in another challenge
+
+function reverseString(str) {
+  var revStr =  str.split('').reverse().join('');
+  return revStr ;
+}
+
+// This one is the new function
+function palindrome(str) {
+  // Good luck!
+  var newStr = str.replace(/\W/g, '').replace(/-/g, '').replace(/_/g, '').toLowerCase();
+  
+  if(newStr === reverseString(newStr)) {
+  console.log(newStr + ' true');
+    return true;
+  } else   console.log(newStr + ' false');
+  return false;
+  
+  //console.log(newStr);
+}
+palindrome("_eye");
