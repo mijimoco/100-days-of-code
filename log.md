@@ -29,3 +29,11 @@ I also enjoyed using github, I'm just getting used to working with it.
 **Link(s) to work**: [Reverse a String](https://www.freecodecamp.com/challenges/reverse-a-string)
 
 
+
+### Day 7: January 10, 2016
+
+**Today's Progress**: Keep working on FreeCodeCamp challenges, today I fixed Palindrome Challenge, where we are supposed to write a function which would check whether a string is a palindrom. Function should clean any non-alphanumeric characters first.
+
+**Thoughts:** This was a fairly easy challenge, though I learned a lot using methods related with String objects. Also I feel much relaxed now, as the first week concludes at #100daysofcode challenge, to work with codepen.io or github
+
+**Link to work:** [Gist link for the code](https://gist.github.com/mijimoco/9304f92d23ec24dc2c94258a827bcc48)
