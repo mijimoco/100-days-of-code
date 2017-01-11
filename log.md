@@ -37,3 +37,13 @@ I also enjoyed using github, I'm just getting used to working with it.
 **Thoughts:** This was a fairly easy challenge, though I learned a lot using methods related with String objects. Also I feel much relaxed now, as the first week concludes at #100daysofcode challenge, to work with codepen.io or github
 
 **Link to work:** [Gist link for the code](https://gist.github.com/mijimoco/9304f92d23ec24dc2c94258a827bcc48)
+
+
+
+### Day 8: January 11, 2016
+
+**Today's Progress**: Today's FreeCodeCamp challenge was to write a function to find the longest word in a string. 
+
+**Thoughts:** I struggled fairly with writing the code for sorting. It was easy to split the string into an array seperated with ' '; my initial attempts to write a for loop was kind of faulty at first, but I fixed it quite fast.
+
+**Link to work:** [Gist link for the code](https://gist.github.com/mijimoco/9f8e8808fdb9281cd088f68944804ccc)
