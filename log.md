@@ -47,3 +47,14 @@ I also enjoyed using github, I'm just getting used to working with it.
 **Thoughts:** I struggled fairly with writing the code for sorting. It was easy to split the string into an array seperated with ' '; my initial attempts to write a for loop was kind of faulty at first, but I fixed it quite fast.
 
 **Link to work:** [Gist link for the code](https://gist.github.com/mijimoco/9f8e8808fdb9281cd088f68944804ccc)
+
+
+
+### Day 10: January 14, 2016
+
+**Today's Progress**: Today's FreeCodeCamp challenge was to find the largest number in an array of subarrays. 
+
+**Thoughts:** My idea was correct from the beginning, although I faced some trouble along the way. Yet it was fun
+
+**Link to work:** [Gist link for the code](https://gist.github.com/mijimoco/0eca8719f046bfb9b4aa44462be40f24)
+
