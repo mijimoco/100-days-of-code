@@ -58,3 +58,14 @@ I also enjoyed using github, I'm just getting used to working with it.
 
 **Link to work:** [Gist link for the code](https://gist.github.com/mijimoco/0eca8719f046bfb9b4aa44462be40f24)
 
+
+
+### Day 12: January 17, 2016
+
+**Today's Progress**: Today's FreeCodeCamp challenge was to write a function that would check whether the given first string ends with the given second string. 
+
+**Thoughts:** This was actually quite easy; it didn't take more than 10 minutes from start to finish
+
+**Link to work:** [Gist link for the code](https://gist.github.com/mijimoco/490202af1c15e5a90be0968fb057371b)
+
+
