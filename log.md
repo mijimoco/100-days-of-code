@@ -30,7 +30,7 @@ I also enjoyed using github, I'm just getting used to working with it.
 
 
 
-### Day 7: January 10, 2016
+### Day 7: January 10, 2017
 
 **Today's Progress**: Keep working on FreeCodeCamp challenges, today I fixed Palindrome Challenge, where we are supposed to write a function which would check whether a string is a palindrom. Function should clean any non-alphanumeric characters first.
 
@@ -40,7 +40,7 @@ I also enjoyed using github, I'm just getting used to working with it.
 
 
 
-### Day 8: January 11, 2016
+### Day 8: January 11, 2017
 
 **Today's Progress**: Today's FreeCodeCamp challenge was to write a function to find the longest word in a string. 
 
@@ -50,7 +50,7 @@ I also enjoyed using github, I'm just getting used to working with it.
 
 
 
-### Day 10: January 14, 2016
+### Day 10: January 14, 2017
 
 **Today's Progress**: Today's FreeCodeCamp challenge was to find the largest number in an array of subarrays. 
 
@@ -60,11 +60,20 @@ I also enjoyed using github, I'm just getting used to working with it.
 
 
 
-### Day 12: January 17, 2016
+### Day 12: January 17, 2017
 
 **Today's Progress**: Today's FreeCodeCamp challenge was to write a function that would check whether the given first string ends with the given second string. 
 
 **Thoughts:** This was actually quite easy; it didn't take more than 10 minutes from start to finish
+
+**Link to work:** [Gist link for the code](https://gist.github.com/mijimoco/490202af1c15e5a90be0968fb057371b)
+
+
+### Day 18: January 30, 2017
+
+**Today's Progress**: Today's FreeCodeCamp challenge was named Falsy Bouncer. I wrote a function to filter out false items out of an array. It was quite fun.
+
+**Thoughts:** Boolean is an interesting object wrapper, with falsy values like undefined, NaN or "" it takes false, which is great because we can easily filter out false items by arr.filter(Boolean); so yeah it works like a function.
 
 **Link to work:** [Gist link for the code](https://gist.github.com/mijimoco/490202af1c15e5a90be0968fb057371b)
 
