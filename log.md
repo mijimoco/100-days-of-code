@@ -78,3 +78,11 @@ I also enjoyed using github, I'm just getting used to working with it.
 **Link to work:** [Gist link for the code](https://gist.github.com/mijimoco/490202af1c15e5a90be0968fb057371b)
 
 
+
+### Day 21: Feb 4, 2017
+
+**Today's Progress**: FreeCodeCamp's basic algorhtm scripting challenges are finished, and moving on with the rest. Today's challenge was Caesar's Cipher.
+
+**Thoughts:** It was very much fun trying to solve this puzzle. I was stuck with how to rotate within A-Z range. At first I thought this is very easy, just add 13 and it's done. Of course it's not! 
+
+**Link to work:** [Gist link for the code](https://gist.github.com/mijimoco/3a897a0677041b819a07dcf2345c0339)
