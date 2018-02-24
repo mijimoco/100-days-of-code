@@ -2,6 +2,16 @@
 
 
 
+### Day 2: Feb-24-18 Saturday
+**Today's Progress**: Worked a little bit on the index
+
+**Thoughts**: just a tiny 30 min work, I've noticed I've forgot bootstrap a lot
+
+**Link To Work**: [Show the Local Weather](https://github.com/mijimoco/show-the-local-weather)
+
+
+
+
 ### Day 1: Feb-23-18 Friday
 **Today's Progress**: Getting back to FreeCodeCamp challenges; working on "Show the Local Weather" Intermediate Challenge.
 
