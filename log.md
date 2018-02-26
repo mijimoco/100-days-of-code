@@ -1,8 +1,16 @@
 ## Log of Round 3 of #100DaysOfCode
 
 
+### Day 4: Feb-26-18 Monday
+**Today's Progress**: Worked a little bit on the index
 
-### Day 3: Feb-25-18 Saturday
+**Thoughts**: added CSS, played with Atom's git github functionalities
+
+**Link To Work**: [Show the Local Weather](https://github.com/mijimoco/show-the-local-weather)
+
+
+
+### Day 3: Feb-25-18 Sunday
 **Today's Progress**: Worked a little bit on the index
 
 **Thoughts**: took out bootstrap, wrote lean html, also played around with atom
