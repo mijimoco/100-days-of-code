@@ -1,6 +1,14 @@
 ## Log of Round 3 of #100DaysOfCode
 
 
+### Day 5: Feb-27-18 Tuesday
+**Today's Progress**: A little progress today - bootstrap why u so annoying :D
+
+**Thoughts**: I got stuck with a simple problem but couldn't fix it today
+
+**Link To Work**: [Show the Local Weather](https://github.com/mijimoco/show-the-local-weather)
+
+
 ### Day 4: Feb-26-18 Monday
 **Today's Progress**: Worked a little bit on the index
 
