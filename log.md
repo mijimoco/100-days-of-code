@@ -1,6 +1,14 @@
 ## Log of Round 3 of #100DaysOfCode
 
 
+### Day 6: Feb-28-18 Wednesday
+**Today's Progress**: Put bootstrap back into it - HTML is more in shape :D
+
+**Thoughts**: I'm working small tiny things but still progress.
+
+**Link To Work**: [Show the Local Weather](https://github.com/mijimoco/show-the-local-weather)
+
+
 ### Day 5: Feb-27-18 Tuesday
 **Today's Progress**: A little progress today - bootstrap why u so annoying :D
 
