@@ -1,6 +1,14 @@
 ## Log of Round 3 of #100DaysOfCode
 
 
+### Day 7: Mar-1-18 Thursday
+**Today's Progress**: worked on the JQuery problem
+
+**Thoughts**: long time.. i forgot a lot of JQuery syntax
+
+**Link To Work**: [Show the Local Weather](https://github.com/mijimoco/show-the-local-weather)
+
+
 ### Day 6: Feb-28-18 Wednesday
 **Today's Progress**: Put bootstrap back into it - HTML is more in shape :D
 
