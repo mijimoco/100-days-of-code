@@ -1,6 +1,14 @@
 ## Log of Round 3 of #100DaysOfCode
 
 
+### Day 8: Mar-3-18 Saturday
+**Today's Progress**: fixed the bootstrap structure
+
+**Thoughts**: i'll put more time into JQuery tomorrow
+
+**Link To Work**: [Show the Local Weather](https://github.com/mijimoco/show-the-local-weather)
+
+
 ### Day 7: Mar-1-18 Thursday
 **Today's Progress**: worked on the JQuery problem
 
